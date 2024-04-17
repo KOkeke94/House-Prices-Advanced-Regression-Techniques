@@ -12,3 +12,4 @@ https://github.com/KOkeke94/House-Prices-Advanced-Regression-Techniques/blob/mai
 https://KOkeke94.shinyapps.io/Project2App/
 
 ### Report on Analysis
+https://github.com/KOkeke94/House-Prices-Advanced-Regression-Techniques/blob/main/Stats%201%20Project%202%20Report%20-%20FINAL.pdf
